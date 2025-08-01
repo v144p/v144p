@@ -1,5 +1,3 @@
-<img src="https://tenor.com/fnfkmcvpv2k.gif" width="900">
-
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
