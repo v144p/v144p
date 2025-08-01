@@ -1,9 +1,13 @@
+<!-- <img src="https://media1.tenor.com/m/slXqsD1oE-4AAAAd/lyney-lynette.gif" width="900"> -->
+<!-- <img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900"> -->
+<img src="https://media1.tenor.com/m/5bhkD9qAUTIAAAAd/time-agent-link-click.gif" width="900">
+
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
 
 - **Languages:** JavaScript/TypeScript, PHP
-- **Frameworks & Libraries:** React.js, Next.js, Remix, Svelte, SvelteKit, Laravel
+- **Frameworks & Libraries:** React.js, Next.js, Svelte, SvelteKit, Laravel
 - **Databases:** MySQL, Firebase
 - **Tools:** Git, VSCode
 
