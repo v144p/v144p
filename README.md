@@ -12,15 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ##### Aspiring Fullstack Develope
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,github,java,php,powershell,py,vscode,powershell,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,github,java,php,powershell,py,vscode,powershell,figma,heroku,git,bots,firebase,blender&theme=light)](https://skillicons.dev)
 
 ##### About me
 
-
-
-![https://instagram.com/7and6/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/revan-aldian-1392592a8/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/7and6) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/revan-aldian-1392592a8) [![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/nPX4yT7S) [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](revanaldian2k25@gmail.com) 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/7and6) [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/revan-aldian-1392592a8)
