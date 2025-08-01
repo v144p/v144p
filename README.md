@@ -1,5 +1,5 @@
 <!-- <img src="https://tenor.com/fnfkmcvpv2k.gif" width="900"> -->
-<!-- <img src="https://media1.tenor.com/m/Jat0oxpwUIcAAAAd/fruits-basket-furuba.gif" width="900"> -->
+<!-- <img src="https://tenor.com/fnfkmcvpv2k.gif" width="900"> -->
 <img src="https://media1.tenor.com/m/5bhkD9qAUTIAAAAd/time-agent-link-click.gif" width="900">
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
