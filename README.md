@@ -1,5 +1,3 @@
-<!-- <img src="https://tenor.com/fnfkmcvpv2k.gif" width="900"> -->
-<!-- <img src="https://tenor.com/fnfkmcvpv2k.gif" width="900"> -->
 <img src="https://tenor.com/fnfkmcvpv2k.gif" width="900">
 
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
