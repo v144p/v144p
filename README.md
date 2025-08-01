@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ##### Aspiring Fullstack Develope
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,github,java,php,powershell,py,vscode,powershell,figma,heroku,git,bots,firebase,blender,c,cs,ccp,,&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,github,java,php,powershell,py,vscode,powershell,figma,heroku,git,bots,firebase,blender,c,cs,ccp,,&theme=light)
 
 ##### About me
 
