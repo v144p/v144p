@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 ##### About me
 
-[![[My Skills](https://instagram.com/7and6)](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![https://instagram.com/7and6](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/7and6/) ![www.linkedin.com/in/revan-aldian-1392592a8/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
